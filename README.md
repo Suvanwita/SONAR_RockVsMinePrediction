@@ -3,12 +3,15 @@ A machine learning project that predicts whether an object detected by sonar is 
 
 📌 Features
 
-Binary classification (Rock 🪨 vs Mine 💣)
+1. Binary classification (Rock 🪨 vs Mine 💣)
 
-Preprocessing of dataset
+2. Preprocessing of dataset
 
-Model training with Logistic Regression (can be extended to other ML models)
+3. Model training with Logistic Regression (can be extended to other ML models)
 
-Accuracy evaluation
+4. Accuracy evaluation
 
-User input prediction
+5. User input prediction
+
+
+
